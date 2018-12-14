@@ -1,4 +1,4 @@
-# ABTO VoIP SDK (Easy Swift integration)
+# ABTO VoIP SDK for Swift (Easy Swift integration)
 
 ABTO Software VoIP SIP SDK for iPhone and iPad will help you to quickly build a custom softphone app for iOS. 
 This repository is for Swift based CocoaPod integration.
