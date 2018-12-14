@@ -21,7 +21,7 @@ platform :ios, '8.0'
 In all targets that should use ABTO VoIP SDK for Swift include approriate pod via:
 
 ```
-pod 'AbtoVoipSDK', '~> 1.0.0', :source => 'https://github.com/voip-sip-sdk/ABTO-VoIP-SDK-for-iOS-Swift.git'
+pod 'AbtoVoipSDKSwift', '~> 1.0.0', :source => 'https://github.com/voip-sip-sdk/ABTO-VoIP-SDK-for-iOS-Swift.git'
 ```
 
 Version 1.0.0 here is used as example
@@ -36,4 +36,4 @@ Version 1.0.0 here is used as example
 
 To use ABTO VoIP SDK for Swift classes and methods import library via:
 
-```import AbtoVoipSDK```
+```import AbtoVoipSDKSwift```
