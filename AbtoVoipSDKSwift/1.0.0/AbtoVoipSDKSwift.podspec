@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.public_header_files = 'AbtoVoipSDKSwift/1.0.0/AbtoVoipSDKSwift.h', 'AbtoVoipSDKSwift/1.0.0/AbtoSipClientWrapper.framework/Headers/AbtoSipPhoneObserver.h'
   s.module_map = 'AbtoVoipSDKSwift/1.0.0/module.modulemap'
   s.pod_target_xcconfig = { 'ENABLE_BITCODE' => 'NO' }
+  s.user_target_xcconfig = { 'ENABLE_BITCODE' => 'NO' }
   s.libraries = 'c++', 'z'
   s.requires_arc = true
 end
