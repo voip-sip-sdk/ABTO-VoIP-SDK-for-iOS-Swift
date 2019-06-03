@@ -26,10 +26,10 @@ source 'https://github.com/voip-sip-sdk/ABTO-VoIP-SDK-for-iOS-Swift.git'
 In all targets that should use ABTO VoIP SDK for Swift include approriate pod via:
 
 ```
-pod 'AbtoVoipSDKSwift', '~> 1.0.0'
+pod 'AbtoVoipSDKSwift', '~> 1.1.0'
 ```
 
-Version 1.0.0 here is used as example
+Version 1.1.0 here is used as example
 
 ### Pod project configuration
 
