@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
   s.frameworks = 'SystemConfiguration', 'CoreMedia', 'CoreGraphics', 'UIKit', 'Accelerate', 'AudioToolbox', 'AVFoundation', 'Foundation', 'AbtoSipClientWrapper'
   s.vendored_frameworks = "AbtoVoipSDKSwift/#{s.version}/AbtoSipClientWrapper.xcframework"
   s.resources = "AbtoVoipSDKSwift/#{s.version}/AbtoSipClientWrapper.xcframework/ios-arm64_armv7/AbtoSipClientWrapper.framework/Resources/*.{wav,mp3,caf}"
-  s.source_files = "AbtoVoipSDKSwift/#{s.version}/AbtoVoipSDK.{h,m}"
-  s.preserve_paths = "AbtoVoipSDKSwift/#{s.version}/AbtoVoipSDK.{h,m}"
-  s.public_header_files = "AbtoVoipSDKSwift/#{s.version}/AbtoVoipSDK.h"
+  s.source_files = "AbtoVoipSDKSwift/#{s.version}/AbtoVoipSDKSwift.{h,m}"
+  s.preserve_paths = "AbtoVoipSDKSwift/#{s.version}/AbtoVoipSDKSwift.{h,m}"
+  s.public_header_files = "AbtoVoipSDKSwift/#{s.version}/AbtoVoipSDKSwift.h"
   s.pod_target_xcconfig = { 'ENABLE_BITCODE' => 'NO' }
   s.user_target_xcconfig = { 'ENABLE_BITCODE' => 'NO' }
   s.libraries = 'c++', 'z'
