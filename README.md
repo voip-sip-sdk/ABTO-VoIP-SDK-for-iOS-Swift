@@ -49,4 +49,4 @@ This information must be provided before initialize method is called. There are 
 2) `licenseKey` property to set Key in form of “{V0exUTjAafwV...}”, etc
 In many scenarios SDK is used and initialized after didFinishLaunchingWithOptions method is executed, so adding license setup here might be a right choice.
 
-To obtain trial license for testing navigate to our site https://voipsipsdk.com/product/voip-sip-sdk?attribute_pa_platform=ios select proper options and "Download Free Trial"
+To obtain trial license for testing navigate to our site https://voipsipsdk.com/product/voip-sip-sdk?attribute_pa_platform=ios select proper options(single call or multiple calls support) and press "Download Free Trial", enter e-mail to reeive trial credentials.
