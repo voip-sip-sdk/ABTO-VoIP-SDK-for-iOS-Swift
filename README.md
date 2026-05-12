@@ -1,4 +1,4 @@
-# DEPRECTED USE ABTO-VoIP-SDK-for-iOS (https://github.com/voip-sip-sdk/ABTO-VoIP-SDK-for-iOS-Swift.git) instead which supports both Swift and Objective-C
+# DEPRECTED USE ABTO-VoIP-SDK-for-iOS (https://github.com/voip-sip-sdk/ABTO-VoIP-SDK-for-iOS) instead which supports both Swift and Objective-C
 
 # ABTO VoIP SDK for Swift (Easy Swift integration)
 
